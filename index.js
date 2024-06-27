@@ -10,7 +10,7 @@ function homePlus(points) {
 
 function guestPlus(points) {
   guestCount += points;
-  guestEl.textContent = homeCount;
+  guestEl.textContent = guestCount;
 }
 
 // function homePlus1() {
